@@ -1,0 +1,18 @@
+body{
+background-color: aqua;
+
+}
+h1{
+  border-style: dotted;
+  margin-top: auto;
+}
+p{
+    background-color: aliceblue;
+border-style: inset;
+    border-radius: 30%;
+  }
+div{
+  border: 5px outset rgb(60, 0, 255);
+  background-color: lightblue;    
+  text-align: center;
+}
