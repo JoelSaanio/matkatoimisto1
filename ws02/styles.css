@@ -1,0 +1,25 @@
+body {
+    background-color: lightblue;
+  }
+  nav  {
+    align-content: center;
+    float: center;
+  }
+  header {
+    color: white;
+    text-align: center;
+  }
+  
+  image{
+   height: 100px;
+  }
+ footer {
+    text-align: center;
+    height: 100px;
+}
+h1{
+text-align: center;
+}
+h2{
+  text-align: center;
+  }
